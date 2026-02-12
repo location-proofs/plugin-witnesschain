@@ -1,7 +1,17 @@
 {
-  "name": "@decentralized-geo/plugin-witnesschain",
+  "name": "@location-proofs/plugin-witnesschain",
   "version": "0.1.0-alpha.0",
   "description": "WitnessChain location proof plugin for Astral SDK",
+  "license": "MIT",
+  "author": "Astral Protocol",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/location-proofs/plugin-witnesschain.git"
+  },
+  "homepage": "https://github.com/location-proofs/plugin-witnesschain#readme",
+  "bugs": {
+    "url": "https://github.com/location-proofs/plugin-witnesschain/issues"
+  },
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
